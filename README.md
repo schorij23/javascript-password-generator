@@ -18,7 +18,7 @@ This project uses javascript to generate a password
 * [Questions](#questions)
 
 ## Usage
-This application is used to generate a password
+This application is used to generate a passwords
 
 
 ## License
@@ -26,10 +26,10 @@ This application is used to generate a password
 This project is licensed under the MIT license.
   
 ## Screenshot
-![Screenshot 2023-09-22 at 11-10-36 Password Generator](https://github.com/schorij23/password-generator/assets/5600528/2cc8a2f4-3490-4888-8e24-194b64f48eab)
+![Password Generator](image/password-generator.png)
 
 ## Links
-
+Deployed Link (https://schorij23.github.io/javascript-password-generator/)
 
 ## Questions
 
